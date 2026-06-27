@@ -32,7 +32,6 @@
 | Project | Description | Tech |
 |---|---|---|
 | [embedded-ai-workspace](https://github.com/atillab1/embedded-ai-workspace) | Claude AI tooling for embedded firmware: MISRA Skill + Datasheet MCP + HIL pipeline | TypeScript, STM32 |
-| [a2-rocketry](https://github.com/atillab1/STM32) | A2 mid-power rocket flight computer: Kalman filter for altitude & velocity estimation, sensor fusion (BMP280 + MPU6050) | C, STM32 |
 | [STM32](https://github.com/atillab1/STM32) | STM32 microcontroller experiments and firmware snippets | C |
 
 ---
