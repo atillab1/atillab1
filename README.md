@@ -3,6 +3,7 @@
 **Computer Engineering Student @ Erciyes University · 3rd Year**
 *Embedded Systems & Firmware Developer in progress 🚀*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atilla-basut-8b0258296)
 ---
 
 ### 🧑‍💻 About Me
