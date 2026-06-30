@@ -31,6 +31,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [**embedded-mcp**](https://github.com/atillab1/embedded-mcp) | MCP server that lets an AI assistant read, command & debug a microcontroller over serial — decode registers by name from SVD | Python, MCP, pyserial |
 | [embedded-ai-workspace](https://github.com/atillab1/embedded-ai-workspace) | Claude AI tooling for embedded firmware: MISRA Skill + Datasheet MCP + HIL pipeline | TypeScript, STM32 |
 | [STM32](https://github.com/atillab1/STM32) | STM32 microcontroller experiments and firmware snippets | C |
 
