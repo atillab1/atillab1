@@ -12,7 +12,6 @@
 - 🔧 Passionate about **Embedded Systems**, **Firmware Development** and **STM32**
 - 🤖 Exploring **AI tooling** + low-level hardware (MCP pipelines, Claude)
 - 💡 Currently working on embedded AI pipelines and sensor fusion
-- 📍 Based in Istanbul, Turkey
 
 ---
 
@@ -20,7 +19,6 @@
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
 [![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://st.com)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
