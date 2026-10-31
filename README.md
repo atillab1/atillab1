@@ -10,8 +10,9 @@
 
 - 🎓 3rd year **Computer Engineering** student at **Erciyes University**, Kayseri
 - 🔧 Passionate about **Embedded Systems**, **Firmware Development** and **STM32**
-- 🤖 Exploring **AI tooling** + low-level hardware (MCP pipelines, Claude)
-- 💡 Currently working on embedded AI pipelines and sensor fusion
+- 🚀 Software unit coordinator of the **ARFESA** rocket team (TEKNOFEST 2026): STM32 flight computer, FreeRTOS, Kalman filter
+- 💡 Currently learning: low-power modes and software timers on the STM32F407; next up: CAN
+- 🤖 Also experimenting with AI tooling for firmware work (the AI-built projects are marked below)
 
 ---
 
@@ -20,7 +21,6 @@
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
 [![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://st.com)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
 ---
@@ -29,9 +29,10 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [**embedded-mcp**](https://github.com/atillab1/embedded-mcp) | MCP server that lets an AI assistant read, command & debug a microcontroller over serial — decode registers by name from SVD | Python, MCP, pyserial |
-| [embedded-ai-workspace](https://github.com/atillab1/embedded-ai-workspace) | Claude AI tooling for embedded firmware: MISRA Skill + Datasheet MCP + HIL pipeline | TypeScript, STM32 |
-| [STM32](https://github.com/atillab1/STM32) | STM32 microcontroller experiments and firmware snippets | C |
+| [**stm32f407-custom-drivers**](https://github.com/atillab1/stm32f407-custom-drivers) | My own GPIO, ADC + DMA, interrupt UART, I2C LCD and software timer drivers, plus 16 timer, SPI, USB and low-power examples on the STM32F4DISCOVERY | C, STM32 HAL |
+| [STM32](https://github.com/atillab1/STM32) | Earlier STM32 experiments: GPIO, ADC, interrupts | C |
+| [embedded-mcp](https://github.com/atillab1/embedded-mcp) | 🤖 *AI-generated:* MCP server that lets an AI assistant read, command & debug a microcontroller over serial. I defined the idea and scope; the code was written by Claude. | Python, MCP |
+| [embedded-ai-workspace](https://github.com/atillab1/embedded-ai-workspace) | 🤖 *AI-generated:* Claude tooling for embedded firmware (MISRA Skill, Datasheet MCP, HIL pipeline). I defined the idea and scope; the code was written by Claude. | TypeScript |
 
 ---
 
